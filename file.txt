@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dong thu 3
+=======
+dong thu 1
+dong thu 2
+>>>>>>> dc86ee79eaa6a7aba71760477e136472e73aa5dc
